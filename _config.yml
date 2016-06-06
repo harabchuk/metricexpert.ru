@@ -4,7 +4,7 @@ email: aliaksei.harabchuk@gmail.com
 description: >
   Блог с рецептами для Google Analytcs, Tag Manager, Яндекс Метрикки
   с пошаговыми инструкциями и примерами
-baseurl: "/metricexpert.ru" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://metricexpert.ru" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  harabchuk
