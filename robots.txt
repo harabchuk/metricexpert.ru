@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Sitemap: http://www.metricexpert.ru/sitemap.xml
+Host: http://www.metricexpert.ru
