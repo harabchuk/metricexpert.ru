@@ -2,7 +2,7 @@
 title: О Google Analytics
 email: aliaksei.harabchuk@gmail.com
 description: >
-  Блог с рецептами для Google Analytcs, Tag Manager, Яндекс Метрикки
+  Блог с рецептами для Google Analytcs, Tag Manager, Яндекс Метрики
   с пошаговыми инструкциями и примерами
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://metricexpert.ru" # the base hostname & protocol for your site
@@ -19,3 +19,5 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+timezone: Europe/Minsk
