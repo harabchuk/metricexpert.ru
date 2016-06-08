@@ -23,19 +23,13 @@ javascript файла, но доступа к сайту небыло, а про
 ```html
 <script>
 window.kn_common = {
-
-    // get the product info (title, price, desc)
     get_product: function(){
-        return {
-          ...
-        };
+      //...
     },
 
-    // get current category
     get_category: function(){
-        return '...';
+      //...
     }
-
 };
 </script>
 ```
