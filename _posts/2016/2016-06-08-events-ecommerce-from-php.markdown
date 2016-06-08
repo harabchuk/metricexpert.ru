@@ -1,7 +1,7 @@
 ---
 layout: post
 title: События и электронная коммерция из PHP
-date: '2016-06-08 09:46'
+date: '2016-06-08 07:00'
 ---
 
 Написал низкоуровневую библиотеку [php-ga-tools][php-ga-tools] для работы с Measurement Protocol на PHP.
