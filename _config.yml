@@ -1,9 +1,9 @@
 # Site settings
-title: О Google Analytics
+title: Об аналитике
 email: aliaksei.harabchuk@gmail.com
 description: >
-  Блог с рецептами для Google Analytcs, Tag Manager, Яндекс Метрики
-  с пошаговыми инструкциями и примерами
+  Блог про технологии и программы для анализа данных: Google Analytcs, Tag Manager, Яндекс Метрики, Kibana, GrayLog и другие.
+  С пошаговыми инструкциями и примерами.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.metricexpert.ru" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
