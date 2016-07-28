@@ -56,7 +56,6 @@ $log->info('Импорт CSV завершен');
 $log->info('Импорт CSV завершен', ['user_id'=>$userId, 'csv_file'=>$file]);
 ```
 
-
 [graylog]: https://www.graylog.org
 [graylog-doc]: http://docs.graylog.org/en/2.0/pages/installation/aws.html
 [graylog-ec2-image]: https://github.com/Graylog2/graylog2-images/tree/2.0/aws
